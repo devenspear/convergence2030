@@ -34,7 +34,7 @@ export default function Impact() {
 
             <div className="container mx-auto px-6 relative z-10 max-w-7xl">
                 <div className="text-center mb-10 max-w-4xl mx-auto">
-                    <h2 className="text-5xl md:text-6xl font-black mb-4 tracking-tight text-gray-900 uppercase" style={{fontFamily: 'var(--font-work-sans), sans-serif'}}>THE IMPACT</h2>
+                    <h2 className="text-5xl md:text-6xl font-black mb-4 tracking-tight text-gray-900/80 uppercase" style={{fontFamily: 'var(--font-work-sans), sans-serif'}}>THE IMPACT</h2>
                     <p className="text-2xl text-gray-600 font-medium" style={{fontFamily: 'var(--font-inter), sans-serif'}}>The End of Labor as We Know It</p>
                 </div>
 
