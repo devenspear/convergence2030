@@ -19,7 +19,7 @@ export default function Hero() {
             {/* Background Image with Dark Overlay */}
             <motion.div style={{ y }} className="absolute inset-0 z-0">
                 <Image
-                    src="/hero.png"
+                    src="/hero.jpg"
                     alt="Convergence 2030"
                     fill
                     className="object-cover scale-105"
