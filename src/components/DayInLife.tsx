@@ -62,12 +62,12 @@ export default function DayInLife() {
     return (
         <section className="py-16 bg-gradient-to-b from-white to-gray-50">
             <div className="container mx-auto px-6">
-                <div className="mb-10 max-w-4xl">
-                    <h2 className="text-5xl md:text-6xl font-black text-gray-900 tracking-tight mb-4" style={{fontFamily: 'var(--font-work-sans), sans-serif'}}>
+                <div className="text-center mb-10 max-w-4xl mx-auto">
+                    <h2 className="text-5xl md:text-6xl font-black text-gray-900 tracking-tight mb-4 uppercase" style={{fontFamily: 'var(--font-work-sans), sans-serif'}}>
                         A DAY IN THE LIFE
                     </h2>
-                    <p className="text-lg text-gray-600 font-medium" style={{fontFamily: 'var(--font-inter), sans-serif'}}>
-                        Scroll horizontally to witness the evolution →
+                    <p className="text-2xl text-gray-600 font-medium" style={{fontFamily: 'var(--font-inter), sans-serif'}}>
+                        Scroll horizontally to witness the evolution
                     </p>
                 </div>
 

@@ -12,8 +12,7 @@ export default function Metamorphosis() {
 
             <div className="container mx-auto px-6 relative z-10">
                 <div className="text-center mb-10 max-w-4xl mx-auto">
-                    <h2 className="text-sm font-bold tracking-[0.3em] text-gray-500 uppercase mb-4" style={{fontFamily: 'var(--font-inter), sans-serif'}}>The Metamorphosis</h2>
-                    <h3 className="text-5xl md:text-6xl font-black mb-4 text-gray-900 tracking-tight" style={{fontFamily: 'var(--font-work-sans), sans-serif'}}>Biology & Truth</h3>
+                    <h2 className="text-5xl md:text-6xl font-black mb-4 text-gray-900 tracking-tight uppercase" style={{fontFamily: 'var(--font-work-sans), sans-serif'}}>BIOLOGY & TRUTH</h2>
                     <p className="text-2xl text-gray-600 font-medium" style={{fontFamily: 'var(--font-inter), sans-serif'}}>Living Longer in a Fractured Reality</p>
                 </div>
 

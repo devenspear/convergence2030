@@ -33,10 +33,9 @@ export default function Impact() {
             </div>
 
             <div className="container mx-auto px-6 relative z-10 max-w-7xl">
-                <div className="mb-10 text-center">
-                    <h2 className="text-5xl md:text-6xl font-black mb-4 tracking-tight text-gray-900" style={{fontFamily: 'var(--font-work-sans), sans-serif'}}>THE IMPACT</h2>
-                    <p className="text-2xl text-gray-700 font-bold" style={{fontFamily: 'var(--font-work-sans), sans-serif'}}>The End of Labor as We Know It</p>
-                    <p className="text-lg text-gray-600 mt-2 font-medium" style={{fontFamily: 'var(--font-inter), sans-serif'}}>When Intelligence Costs $0.00</p>
+                <div className="text-center mb-10 max-w-4xl mx-auto">
+                    <h2 className="text-5xl md:text-6xl font-black mb-4 tracking-tight text-gray-900 uppercase" style={{fontFamily: 'var(--font-work-sans), sans-serif'}}>THE IMPACT</h2>
+                    <p className="text-2xl text-gray-600 font-medium" style={{fontFamily: 'var(--font-inter), sans-serif'}}>The End of Labor as We Know It</p>
                 </div>
 
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-6">

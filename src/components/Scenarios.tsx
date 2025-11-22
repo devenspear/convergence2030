@@ -25,8 +25,8 @@ export default function Scenarios() {
         <section className="py-16 bg-white">
             <div className="container mx-auto px-6">
                 <div className="text-center mb-10 max-w-4xl mx-auto">
-                    <h2 className="text-5xl md:text-6xl font-black mb-4 text-gray-900 tracking-tight" style={{fontFamily: 'var(--font-work-sans), sans-serif'}}>SCENARIOS: Choose Your Future</h2>
-                    <p className="text-lg text-gray-600 font-medium" style={{fontFamily: 'var(--font-inter), sans-serif'}}>Three possible paths forward</p>
+                    <h2 className="text-5xl md:text-6xl font-black mb-4 text-gray-900 tracking-tight uppercase" style={{fontFamily: 'var(--font-work-sans), sans-serif'}}>SCENARIOS: CHOOSE YOUR FUTURE</h2>
+                    <p className="text-2xl text-gray-600 font-medium" style={{fontFamily: 'var(--font-inter), sans-serif'}}>Three possible paths forward</p>
                 </div>
 
                 <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
