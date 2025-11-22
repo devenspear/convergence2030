@@ -70,7 +70,7 @@ export default function DayInLife() {
     const x = useTransform(scrollYProgress, [0, 1], ["1%", "-95%"]);
 
     return (
-        <section ref={targetRef} className="relative h-[100vh] bg-gradient-to-b from-white to-gray-50">
+        <section ref={targetRef} className="relative h-[300vh] bg-gradient-to-b from-white to-gray-50 pb-0 mb-[-100vh]">
             <div className="sticky top-0 flex flex-col h-screen overflow-hidden pt-44">
                 {/* Sticky Top Left Heading */}
                 <div className="absolute left-8 md:left-16 top-12 z-20 pointer-events-none">
